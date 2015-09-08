@@ -1,0 +1,11814 @@
+
+
+called
+
+
+Englishman
+Englishman -  house1
+
+called
+
+
+Norwegian
+
+BACKTRACK
+
+Englishman -  house2
+
+called
+
+
+Norwegian
+Englishman -  house2
+Norwegian -  house1
+
+called
+
+
+Ukranianian
+Englishman -  house2
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+Japanese
+Englishman -  house2
+Japanese -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+Spaniard
+Englishman -  house2
+Japanese -  house4
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+red
+Englishman -  house2
+Japanese -  house4
+red -  house2
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+green
+green -  house1
+Englishman -  house2
+Japanese -  house4
+red -  house2
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house1
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house3
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house1
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house4
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house1
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house5
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house4
+red -  house2
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house3
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house4
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house5
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house1
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house4
+red -  house2
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house4
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house5
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house1
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house3
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house4
+red -  house2
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house5
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house1
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house3
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house4
+Spaniard -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Englishman -  house2
+Japanese -  house5
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+Spaniard
+Englishman -  house2
+Japanese -  house5
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+red
+Englishman -  house2
+Japanese -  house5
+red -  house2
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+green
+green -  house1
+Englishman -  house2
+Japanese -  house5
+red -  house2
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house1
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house3
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house1
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house4
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house1
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house5
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house5
+red -  house2
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house3
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house4
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house5
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house1
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house5
+red -  house2
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house4
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house5
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house1
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house3
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house5
+red -  house2
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house5
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house1
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house3
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house4
+Spaniard -  house4
+Ukranianian -  house3
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Englishman -  house2
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+Japanese
+Englishman -  house2
+Japanese -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+Spaniard
+Englishman -  house2
+Japanese -  house5
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+red
+Englishman -  house2
+Japanese -  house5
+red -  house2
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+green
+green -  house1
+Englishman -  house2
+Japanese -  house5
+red -  house2
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house1
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house3
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house1
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house4
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house1
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house5
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house5
+red -  house2
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house3
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house4
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house5
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house1
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house5
+red -  house2
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house4
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house5
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house1
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house3
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house5
+red -  house2
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house5
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house1
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house3
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house5
+red -  house2
+yellow -  house4
+Spaniard -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Englishman -  house2
+Japanese -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+Spaniard
+Englishman -  house2
+Japanese -  house3
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+red
+Englishman -  house2
+Japanese -  house3
+red -  house2
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+green
+green -  house1
+Englishman -  house2
+Japanese -  house3
+red -  house2
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house1
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house3
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house1
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house4
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house1
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house5
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house3
+red -  house2
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house3
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house4
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house5
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house1
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house3
+red -  house2
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house4
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house5
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house1
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house3
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house3
+red -  house2
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house5
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house1
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house3
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house4
+Spaniard -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Englishman -  house2
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+Japanese
+Englishman -  house2
+Japanese -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+Spaniard
+Englishman -  house2
+Japanese -  house3
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+red
+Englishman -  house2
+Japanese -  house3
+red -  house2
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+green
+green -  house1
+Englishman -  house2
+Japanese -  house3
+red -  house2
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house1
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house3
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house1
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house4
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house1
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house5
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house3
+red -  house2
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house3
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house4
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house5
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house1
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house3
+red -  house2
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house4
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house5
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house1
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house3
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house3
+red -  house2
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house5
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house1
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house3
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house3
+red -  house2
+yellow -  house4
+Spaniard -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Englishman -  house2
+Japanese -  house4
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+Spaniard
+Englishman -  house2
+Japanese -  house4
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+red
+Englishman -  house2
+Japanese -  house4
+red -  house2
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+green
+green -  house1
+Englishman -  house2
+Japanese -  house4
+red -  house2
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house1
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house3
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house1
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house4
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house1
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house5
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house4
+red -  house2
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house3
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house4
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house5
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house3
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house1
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house4
+red -  house2
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house4
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house5
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house1
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house4
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house3
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house4
+red -  house2
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house5
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house1
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house3
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house5
+Englishman -  house2
+Japanese -  house4
+red -  house2
+yellow -  house4
+Spaniard -  house3
+Ukranianian -  house5
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Englishman -  house3
+
+called
+
+
+Norwegian
+Englishman -  house3
+Norwegian -  house1
+
+called
+
+
+Ukranianian
+Englishman -  house3
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+Japanese
+Englishman -  house3
+Japanese -  house5
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+Spaniard
+Englishman -  house3
+Japanese -  house5
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+red
+Englishman -  house3
+Japanese -  house5
+red -  house3
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+green
+green -  house1
+Englishman -  house3
+Japanese -  house5
+red -  house3
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house1
+Englishman -  house3
+Japanese -  house5
+red -  house3
+yellow -  house4
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+green -  house1
+Englishman -  house3
+Japanese -  house5
+red -  house3
+yellow -  house4
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+blue -  house2
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house1
+Englishman -  house3
+Japanese -  house5
+red -  house3
+yellow -  house5
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+green -  house1
+Englishman -  house3
+Japanese -  house5
+red -  house3
+yellow -  house5
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+blue -  house2
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house1
+Englishman -  house3
+Japanese -  house5
+red -  house3
+yellow -  house2
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house4
+Englishman -  house3
+Japanese -  house5
+red -  house3
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house4
+Englishman -  house3
+Japanese -  house5
+red -  house3
+yellow -  house5
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+green -  house4
+Englishman -  house3
+Japanese -  house5
+red -  house3
+yellow -  house5
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+blue -  house2
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house4
+Englishman -  house3
+Japanese -  house5
+red -  house3
+yellow -  house2
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house4
+Englishman -  house3
+Japanese -  house5
+red -  house3
+yellow -  house1
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+green -  house4
+Englishman -  house3
+Japanese -  house5
+red -  house3
+yellow -  house1
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+blue -  house2
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+green -  house5
+Englishman -  house3
+Japanese -  house5
+red -  house3
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+yellow
+green -  house5
+Englishman -  house3
+Japanese -  house5
+red -  house3
+yellow -  house2
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+green -  house5
+Englishman -  house3
+Japanese -  house5
+red -  house3
+yellow -  house1
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+
+called
+
+
+blue
+green -  house5
+Englishman -  house3
+Japanese -  house5
+red -  house3
+yellow -  house1
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+blue -  house2
+
+called
+
+
+ivory
+green -  house5
+Englishman -  house3
+Japanese -  house5
+red -  house3
+ivory -  house4
+yellow -  house1
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+blue -  house2
+
+called
+
+
+smarties
+green -  house5
+Englishman -  house3
+smarties -  house1
+Japanese -  house5
+red -  house3
+ivory -  house4
+yellow -  house1
+Spaniard -  house2
+Ukranianian -  house4
+Norwegian -  house1
+blue -  house2
+
+called
+
+
+snickers
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house1
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house1
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house1
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house1
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+dog -  house2
+smarties -  house2
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+horse
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+dog -  house2
+smarties -  house2
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+horse
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+dog -  house2
+smarties -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+horse
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+dog -  house2
+smarties -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+horse
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+dog -  house2
+smarties -  house4
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+horse
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+dog -  house2
+smarties -  house4
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+horse
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+Spaniard -  house2
+red -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+green -  house5
+yellow -  house4
+
+called
+
+
+blue
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house2
+red -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+green -  house5
+yellow -  house4
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+Spaniard -  house2
+red -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+green -  house2
+
+called
+
+
+yellow
+Ukranianian -  house4
+Spaniard -  house2
+red -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+green -  house2
+yellow -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house4
+Spaniard -  house2
+red -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+green -  house2
+yellow -  house4
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house4
+Spaniard -  house2
+red -  house3
+Norwegian -  house1
+Japanese -  house5
+Englishman -  house3
+green -  house2
+yellow -  house5
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+Spaniard
+Ukranianian -  house4
+Spaniard -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+red
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+green
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+
+called
+
+
+yellow
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house4
+
+called
+
+
+blue
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house4
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house5
+
+called
+
+
+blue
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house5
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house2
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+
+called
+
+
+yellow
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house5
+
+called
+
+
+blue
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house5
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house2
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house1
+
+called
+
+
+blue
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house1
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+
+called
+
+
+yellow
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house2
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+blue
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+ivory
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+smarties
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+snails
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+snails -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+fox
+fox -  house4
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+snails -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+orange juice
+fox -  house4
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+snails -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+orange juice -  house4
+milky ways -  house2
+
+called
+
+
+tea
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+snails
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+snails -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+fox
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+snails
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house4
+snails -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+fox
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+snails
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house4
+snails -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+fox
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+snails
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house4
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+snails
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house4
+
+called
+
+
+blue
+Ukranianian -  house4
+blue -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house4
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house2
+
+called
+
+
+yellow
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house2
+yellow -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house2
+yellow -  house4
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house4
+Spaniard -  house5
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house2
+yellow -  house5
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+Japanese
+Ukranianian -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+Spaniard
+Ukranianian -  house5
+Spaniard -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+red
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+green
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+
+called
+
+
+yellow
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house4
+
+called
+
+
+blue
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house4
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house5
+
+called
+
+
+blue
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house5
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house2
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+
+called
+
+
+yellow
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house5
+
+called
+
+
+blue
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house5
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house2
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house1
+
+called
+
+
+blue
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house1
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+
+called
+
+
+yellow
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house2
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+blue
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+ivory
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+smarties
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+snails
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house3
+snails -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+fox
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+snails
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house3
+snails -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+fox
+fox -  house5
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house3
+snails -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+orange juice
+fox -  house5
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house3
+snails -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+orange juice -  house5
+milky ways -  house2
+
+called
+
+
+tea
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+snails
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house4
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+snails
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+snails
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house5
+snails -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+fox
+fox -  house3
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house5
+snails -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+orange juice
+fox -  house3
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house5
+snails -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+orange juice -  house3
+milky ways -  house2
+
+called
+
+
+tea
+fox -  house3
+tea -  house5
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house5
+snails -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+orange juice -  house3
+milky ways -  house2
+
+called
+
+
+coffee
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+snails
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house5
+snails -  house5
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house2
+
+called
+
+
+fox
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house4
+
+called
+
+
+blue
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house4
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house2
+
+called
+
+
+yellow
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house2
+yellow -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house2
+yellow -  house4
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house4
+red -  house3
+Japanese -  house2
+Norwegian -  house1
+Englishman -  house3
+green -  house2
+yellow -  house5
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+Spaniard
+Ukranianian -  house5
+Spaniard -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+red
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+green
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+
+called
+
+
+yellow
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house4
+
+called
+
+
+blue
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house4
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house5
+
+called
+
+
+blue
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house5
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house2
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+
+called
+
+
+yellow
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house5
+
+called
+
+
+blue
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house5
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house2
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house1
+
+called
+
+
+blue
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house1
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+
+called
+
+
+yellow
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house2
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+blue
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+ivory
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+smarties
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+dog -  house2
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+horse
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+dog -  house2
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+horse
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+dog -  house2
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+horse
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+dog -  house2
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+horse
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+dog -  house2
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+horse
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+dog -  house2
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+horse
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house4
+
+called
+
+
+blue
+Ukranianian -  house5
+blue -  house2
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house4
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house2
+
+called
+
+
+yellow
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house2
+yellow -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house2
+yellow -  house4
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house5
+Spaniard -  house2
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house2
+yellow -  house5
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+Japanese
+Ukranianian -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+Spaniard
+Ukranianian -  house2
+Spaniard -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+red
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+green
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+
+called
+
+
+yellow
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house4
+
+called
+
+
+blue
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house4
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house5
+
+called
+
+
+blue
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house5
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house2
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+
+called
+
+
+yellow
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house5
+
+called
+
+
+blue
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house5
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house2
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house1
+
+called
+
+
+blue
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house1
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+
+called
+
+
+yellow
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house2
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+blue
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+ivory
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+smarties
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+snails
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+snails
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+snails
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+snails -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+fox
+fox -  house1
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+snails -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+orange juice
+fox -  house1
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+snails -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+orange juice -  house5
+milky ways -  house4
+
+called
+
+
+tea
+fox -  house1
+tea -  house2
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+snails -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+orange juice -  house5
+milky ways -  house4
+
+called
+
+
+coffee
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+snails
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+snails -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+fox
+fox -  house4
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+snails -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+orange juice
+fox -  house4
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house3
+snails -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house5
+yellow -  house1
+orange juice -  house2
+milky ways -  house4
+
+called
+
+
+tea
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house4
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+snails
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+dog -  house5
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house4
+
+called
+
+
+snails
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+ivory -  house4
+red -  house3
+smarties -  house5
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house4
+
+called
+
+
+blue
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house4
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house2
+
+called
+
+
+yellow
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house2
+yellow -  house1
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house2
+yellow -  house4
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house5
+red -  house3
+Japanese -  house4
+Norwegian -  house1
+Englishman -  house3
+green -  house2
+yellow -  house5
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+Spaniard
+Ukranianian -  house2
+Spaniard -  house4
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+red
+Ukranianian -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+
+called
+
+
+green
+Ukranianian -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+
+called
+
+
+yellow
+Ukranianian -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house4
+
+called
+
+
+blue
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house4
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house5
+
+called
+
+
+blue
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house5
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house1
+yellow -  house2
+
+called
+
+
+blue
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+
+called
+
+
+yellow
+Ukranianian -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house5
+
+called
+
+
+blue
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house5
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house2
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house1
+
+called
+
+
+blue
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house4
+yellow -  house1
+
+called
+
+
+ivory
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+
+called
+
+
+yellow
+Ukranianian -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house2
+
+called
+
+
+blue
+
+BACKTRACK
+
+Ukranianian -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+blue
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+ivory
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+smarties
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house2
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house1
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house3
+green -  house5
+hersheys bars -  house4
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+snails
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house3
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+snails
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house5
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house2
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house1
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+
+BACKTRACK
+
+
+BACKTRACK
+
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+green -  house5
+yellow -  house1
+
+called
+
+
+snickers
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+kit kats
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+
+called
+
+
+milky ways
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+hersheys bars
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+smarties -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+dog
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+horse
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+snails
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house3
+snails -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+fox
+fox -  house1
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house3
+snails -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+milky ways -  house5
+
+called
+
+
+orange juice
+fox -  house1
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house3
+snails -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+orange juice -  house4
+milky ways -  house5
+
+called
+
+
+tea
+fox -  house1
+tea -  house2
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house3
+snails -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+orange juice -  house4
+milky ways -  house5
+
+called
+
+
+coffee
+fox -  house1
+tea -  house2
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+dog -  house4
+smarties -  house3
+snails -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+coffee -  house5
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+orange juice -  house4
+milky ways -  house5
+
+called
+
+
+milk
+fox -  house1
+tea -  house2
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+milk -  house3
+dog -  house4
+smarties -  house3
+snails -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+coffee -  house5
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+orange juice -  house4
+milky ways -  house5
+
+called
+
+Assignment complete!
+*******************
+
+fox -  house1
+tea -  house2
+kit kats -  house1
+Ukranianian -  house2
+blue -  house2
+horse -  house2
+Spaniard -  house4
+ivory -  house4
+red -  house3
+milk -  house3
+dog -  house4
+smarties -  house3
+snails -  house3
+Japanese -  house5
+Norwegian -  house1
+Englishman -  house3
+snickers -  house4
+coffee -  house5
+green -  house5
+hersheys bars -  house2
+yellow -  house1
+orange juice -  house4
+milky ways -  house5
+
+No of statespaces searched= : 624
